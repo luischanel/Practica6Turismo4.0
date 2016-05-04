@@ -1,0 +1,53 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.luisdavila.turismo3.La29Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            style="@style/Lstyle"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:src="@drawable/la29"
+                />
+
+
+
+
+            <TextView
+                style="@style/titulo.grande"
+                android:id="@+id/tLa29"
+                android:text="@string/la29"/>
+
+
+            <TextView
+                style="@style/texto"
+                android:id="@+id/tinfLa29"
+                android:text="@string/infla29"/>
+
+            <TextView
+
+                style="@style/titulo.peque"
+                android:text="@string/ubicacion"
+                />
+            <com.google.android.gms.maps.MapView
+                android:layout_width="match_parent"
+
+                android:id="@+id/mapademo"
+                android:layout_height="300dp">
+
+            </com.google.android.gms.maps.MapView>
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

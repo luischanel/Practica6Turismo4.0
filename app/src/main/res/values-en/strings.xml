@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mont">Montería</string>
+    <string name="publicidad">Those who come to Monteria may Round walk the Sinú River and see the iguanas
+        sunbathe. From this city, where thanks to a
+        cattle fair is perceived the importance of cattle
+        for the economy of this area of the Caribbean, a visit to
+        Gamekeeping should include a walk on a tourist trail
+        covered with trees that run alongside the Sinú River.</string>
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+    <string name="Inicio">Start</string>
+    <string name="app_name">Turismo4</string>
+    <string name="name">Luis Angel Dávila Causil</string>
+    <string name="estudiante">Electronic Engineering student-UdeA \nAge: 22 Years old\nEmail: luischanel16@gmail.com</string>
+    <string name="acerca">About</string>
+    <string name="ubicacion">Map ubication</string>
+    <string name="by">By: </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Demo">Demography </string>
+    <string name="info">Demographic information</string>
+    <string name="pasaje">Pasaje del sol</string>
+    <string name="bora">Bora Bora bar</string>
+    <string name="infbora">Address: Street 62b #62-43</string>
+    <string name="bar">Bar </string>
+    <string name="bares">Bars </string>
+    <string name="vinikus">Vinikus bar</string>
+    <string name="infvinikus">Address: #1a 44-145, Montería-Cereté #441</string>
+    <string name="la29">Bar la 29</string>
+    <string name="infla29">Address: Career 1 #29-12</string>
+    <string name="hoteles">Hotels</string>
+    <string name="baroca">Hotel Baroca</string>
+    <string name="infbaroca">Address: Street 31 #5-39\nPhone: 3145954736\n Email: reservas@hotelbaroca.com</string>
+    <string name="florida">Hotel Florida Sinú</string>
+    <string name="infflorida">Address: Street 41 #15D – 26\n
+        Phone: 3135614723\nEmail: reservas@hotelfloridasinu.com.co</string>
+    <string name="hsinu">Hotel Sinú</string>
+    <string name="infSinu">Address: Career 3 #31-38\nPhone: 7823355\nEmail: ventas@hotelsinumonteria.com</string>
+    <string name="lugares">Tourist sites</string>
+    <string name="ronda">La Ronda Del Sinú</string>
+    <string name="mirador">El mirador</string>
+    <string name="dmg">The Municipality of Monteria has, according to estimates by DANE 2015, a total population of 441,301 inhabitants, of whom 330,313 live in the urban area and 98,289 in rural areas.</string>
+    <string name="catedral">Catedral San Jerónimo</string>
+    <string name="infronda">An ecological majestic avenue on the banks of the Sinu River. The long boardwalk full of large trees, gardens, bike path and food places, is a must; in it you can walk while feeling the breezes of the river, eat ice cream, delight in a delicious meat and enjoy the wild attractive, as lazy red monkeys, iguanas and which are the main animals that inhabit the linear park.</string>
+    <string name="infmirador">El mirador is located on the extension of the Ronda del Sinu, in the north of the city, from there you can appreciate the Sinu River, the northern bypass and much of the city.</string>
+    <string name="infcatedral">La catedral San Jerónimo is located in the Parque Laureano Gomez in the city center, exactly in the street 27 with career 3 its imposing structure built in the early twentieth century mixes styles such as Gothic and Republican making it the most beautiful church in the city, it is inevitable not stay admired her beauty.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

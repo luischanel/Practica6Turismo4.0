@@ -1,0 +1,52 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.luisdavila.turismo3.BoraFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            style="@style/Lstyle"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:src="@drawable/bora"/>
+
+
+
+            <TextView
+                style="@style/titulo.grande"
+                android:id="@+id/tbora"
+                android:text="@string/bora"/>
+
+
+
+            <TextView
+                style="@style/texto"
+                android:id="@+id/tinfbora"
+                android:text="@string/infbora"/>
+
+            <TextView
+
+                style="@style/titulo.peque"
+                android:text="@string/ubicacion"
+                />
+            <com.google.android.gms.maps.MapView
+                android:layout_width="match_parent"
+
+                android:id="@+id/mapademo"
+                android:layout_height="300dp">
+
+            </com.google.android.gms.maps.MapView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

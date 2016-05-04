@@ -1,0 +1,52 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.luisdavila.practica4.MiradorFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        style="@style/Lstyle"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mirador"
+            />
+        <TextView
+            style="@style/titulo.grande"
+            android:id="@+id/tCatedral"
+            android:text="@string/mirador"
+            />
+
+        <TextView
+            style="@style/texto.peq"
+            android:id="@+id/tinfCatedral"
+            android:text="@string/infmirador"
+            />
+
+        <TextView
+
+            style="@style/titulo.peque"
+            android:text="@string/ubicacion"
+            />
+        <com.google.android.gms.maps.MapView
+            android:layout_width="match_parent"
+
+            android:id="@+id/mapademo"
+            android:layout_height="300dp">
+
+        </com.google.android.gms.maps.MapView>
+
+    </LinearLayout>
+    </ScrollView>
+</FrameLayout>

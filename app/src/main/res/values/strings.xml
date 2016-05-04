@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Turismo4</string>
+
+    <string name="mont">Montería</string>
+    <string name="publicidad">Quienes llegan a Montería pueden
+        caminar por la Ronda del río Sinú y ver a las iguanas
+        tomar el sol. Desde esta ciudad, donde gracias a una
+        feria ganadera se percibe la importancia del ganado vacuno
+        para la economía de esta zona del Caribe, Una visita a
+        Montería debe incluir un paseo a pie por un sendero turístico
+        cubierto de árboles que corren al lado del río Sinú.</string>
+
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+    <string name="Inicio">Inicio</string>
+    <string name="ubicacion">Ubicación en mapa</string>
+
+    <string name="name">Luis Angel Dávila Causil</string>
+    <string name="estudiante">Estudiante Ingeniería Electrónica-UdeA \nEdad: 22Años\nEmail: luischanel16@gmail.com</string>
+    <string name="acerca">Acerca De</string>
+    <string name="by">Por: </string>
+    <string name="Demo">Demografía </string>
+    <string name="info">Información demográfica</string>
+    <string name="pasaje">Pasaje del sol</string>
+    <string name="bora">Bora Bora bar</string>
+    <string name="infbora">Dirección: Cl. 62b #62</string>
+    <string name="bar">Bar </string>
+    <string name="bares">Bares </string>
+    <string name="vinikus">Vinikus bar</string>
+    <string name="infvinikus">Dirección: # a 44-145, Montería-Cereté #441</string>
+    <string name="la29">Bar la 29</string>
+    <string name="infla29">Dirección: Carrera 1 #29-12</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="baroca">Hotel Baroca</string>
+    <string name="infbaroca">Direccion: Calle 31 No 5-39\nCel: 3145954736\n Email: reservas@hotelbaroca.com</string>
+    <string name="florida">Hotel Florida Sinú</string>
+    <string name="infflorida">Dirección: Calle 41 15D – 26\n
+        Celular: 3135614723\nEmail: reservas@hotelfloridasinu.com.co</string>
+    <string name="hsinu">Hotel Sinú</string>
+    <string name="infSinu">Carrera 3 #31-38\nTel: 7823355\nEmail: ventas@hotelsinumonteria.com</string>
+    <string name="lugares">Sitios turisticos</string>
+    <string name="ronda">La Ronda Del Sinú</string>
+    <string name="mirador">El mirador</string>
+    <string name="dmg">El Municipio de Montería tiene, según estimaciones del DANE para 2015, una población total de 441.301 habitantes, de los cuales 330.313 viven en el casco urbano y 98.289 en el área rural.</string>
+    <string name="catedral">Catedral San Jerónimo</string>
+    <string name="infronda">Una avenida ecológica a orillas del majestuoso Río Sinú. El largo malecón lleno de grandes árboles, jardines, ciclovía y lugares de comida, es de obligada visita; en él podrás caminar mientras sientes las brisas del río, comerte un helado, deleitarte con una deliciosa carne y disfrutar del atractivo silvestre, como monos rojos, iguanas y perezosos, que son los principales animales que habitan el parque lineal.</string>
+    <string name="infmirador">El mirador esta ubicado en la extensión de la Ronda del Sinú, en la zona norte de la ciudad, desde allí puedes apreciar el Río Sinú, la Ronda Norte y gran parte de la ciudad.</string>
+    <string name="infcatedral">La catedral San Jerónimo esta ubicada en el Parque Laureano Gómez en el centro de la ciudad, exactamente en la calle 27 con carrera 3, su imponente estructura construida a principios del siglo XX mezcla estilos como el gótico y el Republicano logrando que sea la iglesia más linda de la ciudad, es inevitable no quedarse admirado con su belleza.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
